@@ -1,4 +1,4 @@
-﻿namespace ApiProyectoTienda.Models
+﻿namespace PyoyectoNugetTienda
 {
     public class LoginModel
     {

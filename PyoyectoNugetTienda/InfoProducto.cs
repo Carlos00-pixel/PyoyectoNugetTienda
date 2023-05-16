@@ -27,5 +27,8 @@ namespace PyoyectoNugetTienda
 
         [Column("Nick")]
         public string Nick { get; set; }
+
+        [Column("ImagenArtista")]
+        public string ImagenArtista { get; set; }
     }
 }

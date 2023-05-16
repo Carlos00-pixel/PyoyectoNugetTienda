@@ -33,5 +33,8 @@ namespace PyoyectoNugetTienda
 
         [Column("Imagen")]
         public string? Imagen { get; set; }
+
+        [Column("ImagenFondo")]
+        public string? ImagenFondo { get; set; }
     }
 }
